@@ -1,0 +1,11 @@
+/*Jacob Sigman
+  10/21/20
+  CS-102
+  Homework 8
+  chart.css
+*/
+
+.visible   { display: block; }
+.invisible { display: none;  }
+.even { color: #FF0000; }
+.odd { color: orange; }
