@@ -42,7 +42,7 @@
 **`Week 3 - Lab/lab3.c`**: Computing an integral.   
 **`Week 3 - Lab/lab4.c`**: Computing a sum.   
 
-#### Week 4: Graphing Functions
+### Week 4: Graphing Functions
 **Date:** 9/21 - 9/25    
 **Language Used:** Python
 
@@ -62,7 +62,7 @@
 **`Week 4 - Lab/loopfunc2.py`**: A sample loop with a function in Python.   
 **`Week 4 - Lab/loopfunc3.py`**: A sample loop with more functions in Python.   
 
-#### Week 5: Matrix Multiplication
+### Week 5: Matrix Multiplication
 **Date:** 9/28 - 10/2    
 **Language Used:** C
 
@@ -91,7 +91,7 @@
 **`Week 5 - Lab/yprime-oops2.c`**: C file for derivatives with `y.h` header file.   
 **`Week 5 - Lab/yprime.c`**: Other C file for derivatives.   
 
-#### Week 6: String Reversal
+### Week 6: String Reversal
 **Date:** 10/5 - 10/9    
 **Language Used:** C
 
@@ -127,7 +127,7 @@
 **`Week 6 - Lab/uptod2.c`**: Printing a string until there is a "D".   
 **`Week 6 - Lab/uptod3.c`**: Better syntax for `uptod2.c`.   
 
-#### Week 7: Websites
+### Week 7: Websites
 **Date:** 10/12 - 10/16    
 **Languages Used:** C, Python, Javascript, HTML, CSS
 
