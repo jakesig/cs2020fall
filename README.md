@@ -130,6 +130,30 @@
 #### Week 7: Websites
 **Date:** 10/12 - 10/16    
 **Languages Used:** C, Python, Javascript, HTML, CSS
+
+#### Directory Information `Week 7/`
+**`Week 7 - Web/example_c_cgi.c`**: Example of printing HTML in C.   
+**`Week 7 - Web/example_python_cgi.py`**: Example of printing HTML in Python.   
+**`Week 7 - Web/functions.c`**: Matrix functions C file.   
+**`Week 7 - Web/functions.h`**: Matrix functions header file.   
+**`Week 7 - Web/general_html.html`**: Basic HTML example.   
+**`Week 7 - Web/graph.py`**: Graphing the functions from Week 3 in Python with HTML stuff.   
+**`Week 7 - Web/lab1.c`**:    
+**`Week 7 - Web/lab1.py`**:    
+**`Week 7 - Web/lab2.c`**:  
+**`Week 7 - Web/lab2.py`**:    
+**`Week 7 - Web/lab3.c`**:    
+**`Week 7 - Web/lab3.py`**:    
+**`Week 7 - Web/lab4.c`**:    
+**`Week 7 - Web/lab4.py`**:    
+**`Week 7 - Web/lab5.c`**:    
+**`Week 7 - Web/lab5.py`**:    
+**`Week 7 - Web/main.c`**:    
+**`Week 7 - Web/python_lab0.py`**:    
+**`Week 7 - Web/python_placeholders_html.py`**:    
+**`Week 7 - Web/python_placeholders_html2.py`**:    
+
+
 #### Week 8: Websites Part 2
 **Date:** 10/19 - 10/23    
 **Languages Used:** C, Python, Javascript, HTML, CSS
